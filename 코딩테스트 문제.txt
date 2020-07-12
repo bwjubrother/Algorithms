@@ -1,0 +1,130 @@
+#Level 1.
+Q. 완주하지 못한 선수 (Hash)
+import collections
+def solution(participant, completion):
+    return list((collections.Counter(participant) - collections.Counter(completion)).keys())[0]
+Q. 체육복 (Greedy)
+def solution(n, lost, reserve):
+    new_lost=set(lost)-set(reserve)
+    new_reserve=set(reserve)-set(lost)
+    for i in new_reserve:
+        if i-1 in new_lost:
+            new_lost.remove(i-1)
+        elif i+1 in new_lost:
+            new_lost.remove(i+1)
+    answer = n-len(new_lost)
+    return answer
+Q. 2016년
+import datetime
+def getDayName(a,b):
+    t = 'MON TUE WED THU FRI SAT SUN'.split()
+    return t[datetime.datetime(2016, a, b).weekday()]
+Q. 같은 숫자는 싫어
+def no_continuous(s):
+    a = []
+    for i in s:
+        if a[-1:] == [i]: continue
+        a.append(i)
+    return a
+Q. 두 정수 사이의 합
+def adder(a, b):
+    if a > b: a, b = b, a
+    return sum(range(a,b+1))
+Q. 문자열 내 p와 y의 개수
+def numPY(s):
+    return s.lower().count('p') == s.lower().count('y')
+Q. 문자열 다루기 기본
+def alpha_string46(s):
+    return s.isdigit() and len(s) in (4, 6)
+Q. 소수 찾기
+def solution(n):
+    num=set(range(2,n+1))
+    for i in range(2,n+1):
+        if i in num:
+            num-=set(range(2*i,n+1,i))
+    return len(num)
+Q.?문자열을?정수로?바꾸기
+def?strToInt(str):
+    result?=?0
+        for?idx,?number?in?enumerate(str[::-1]):
+            if?number?==?'-':result?*=?-1
+            else:
+                result?+=?int(number)?*?(10?**?idx)
+    return?result
+Q.?약수의?합
+def?sumDivisor(num):
+    return?num?+?sum([i?for?i?in?range(1,?(num?//?2)?+?1)?if?num?%?i?==?0])
+Q.?모의고사
+def?solution(answers):
+    pattern1?=?[1,2,3,4,5]
+    pattern2?=?[2,1,2,3,2,4,2,5]
+    pattern3?=?[3,3,1,1,2,2,4,4,5,5]
+    score?=?[0,?0,?0]
+    result?=?[]
+    for?idx,?answer?in?enumerate(answers):
+        if?answer?==?pattern1[idx%len(pattern1)]:
+            score[0]?+=?1
+        if?answer?==?pattern2[idx%len(pattern2)]:
+            score[1]?+=?1
+        if?answer?==?pattern3[idx%len(pattern3)]:
+            score[2]?+=?1
+    for?idx,?s?in?enumerate(score):
+        if?s?==?max(score):
+            result.append(idx+1)
+    return?result
+Q.?K번쨰?수
+def?solution(array,?commands):
+    return?list(map(lambda?x:sorted(array[x[0]-1:x[1]])[x[2]-1],?commands))?
+Q.?가운데?글자?가져오기
+def?string_middle(str):
+    return?str[(len(str)-1)//2:len(str)//2+1]
+Q. 나누어 떨어지는 숫자 배열
+def solution(arr, divisor): 
+    return sorted([n for n in arr if n%divisor == 0]) or [-1]
+Q. 시저암호
+def caesar(s, n):
+    s = list(s)
+    for i in range(len(s)):
+        if s[i].isupper():
+            s[i]=chr((ord(s[i])-ord('A')+ n)%26+ord('A'))
+        elif s[i].islower():
+            s[i]=chr((ord(s[i])-ord('a')+ n)%26+ord('a'))
+
+    return "".join(s)
+
+#Level 2
+Q. 쇠막대기
+>닫힌 괄호일때 레이저인 경우와 막대기 끝인 경우를 나누어서 생각한다.
+
+Q. 스킬트리
+문제점 : 스킬의 문자열을 기준으로 스킬트리를 비교하여 존재여부를 판단하면 순서가 바뀌는 경우, 판단 불가능
+>스킬트리 내의 요소 중 스킬에 있는 문자가 존재하는지 판단한 후 존재하는 스킬트리만 tmp에 저장, tmp의 길이만큼 스킬과 문자비교를 한 후 일치하면 가능. answer+1
+def solution(skill, skill_trees):
+answer = 0
+for skills in skill_trees:
+skill_list = list(skill)
+for s in skills:
+if s in skill:
+if s != skill.list.pop(0):
+break
+else: answer += 1
+return answer
+
+Q. 주식가격
+문제점 : 시간초과
+> list for문을 두번 돌아서 시간 초과남. 리스트를 직접 돌지 말고 요소 번호로 돌아야 함
+
+Q. 125의 나라
+문제점 : 야매로 품, 시간초과
+> 3진법으로 접근하되, 한자리를 채울때마다 몫에서 1씩 빼주면서 반복한다. While문을 사용함으로써 몫이 0이면 탈출.
+
+Q. 괄호 변환 ( 카카오 2020공채)
+문제점 : 개어려움
+> 문제해설 대로 코드로 옮긴다. 함수를 이용해서 재귀적인 부분을 사용한다.
+
+Q. 큰 수 만들기
+> 탐욕법을 잘 활용하기, 리스트와 배열을 잘 활용하고 while문을 활용해 조건이 맞을때까지 비교하는 구문을 만들기
+
+
+
+

@@ -1,0 +1,15 @@
+결과 : xx1110x1x100011xxx11000111x1x00111010
+
+do ans <- ''
+blackwhite(n)  # 전체 영역으로 함수 호출
+
+def blackwhite(n):
+    global ans
+    if 전체 영역이 하얀색으로 같다면:
+        do ans <- ans + '1'
+    if 전체 영역이 검은색으로 같다면:
+        do ans <- ans + '0'
+    else:
+        do ans <- ans + 'x'
+        # 0~n//2 , n//2~n 을 x, y에 4등분에 맞게 부여하고 탐색
+        blackwhite(n//2)   # 가로세로 n//2의 길이로 줄여 재귀호출

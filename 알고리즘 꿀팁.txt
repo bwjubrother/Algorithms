@@ -1,0 +1,202 @@
+***원형 큐
+def isEmpty():
+    return front == rear
+
+def isFull():
+    return (rear+1) % len(cQ) == front
+
+def enQueue(item):
+    global rear
+    if isFull():
+        print("Queue is Full")
+    else:
+        rear = (rear+1) % len(cQ)
+        cQ[rear] = item
+
+def deQueue():
+    global front
+    if isEmpty():
+        print("Queue is Empty")
+    else:
+        front = (front+1) % len(cQ)
+        return cQ[front]
+
+
+cQ_size = 4
+cQ = [0] * cQ_size
+front = rear = 0
+
+enQueue('A') # front 0 rear 1 [0, 'A', 0, 0]
+enQueue('B') # front 0 rear 2 [0, 'A', 'B', 0]
+print(deQueue()) # 'A' # front 1 rear 2 [0, 'A', 'B', 0]
+enQueue('C') # front 1 rear 3 [0, 'A', 'B', 'C']
+enQueue('D') # front 1 rear 0 ['D', 'A', 'B', 'C']
+enQueue('E') # Queue is Full -> (rear+1) % 4 == front
+print(deQueue()) # 'B' # front 2 rear 0 ['D', 'A', 'B', 'C']
+enQueue('E') # front 2 rear 1 ['D', 'E', 'B', 'C']
+
+
+***부분집합구하기 (digits)
+def getSubset(lst):
+    n = len(lst)
+    for i in range(1<<n): 
+        for j in range(n): 
+            t_f = i & (1 << j)
+            if t_f: 
+                print(lst[j], end=' ') 
+        print()
+
+
+getSubset([0,1,2])
+
+
+***부분집합찾기(재귀함수)
+    def backtrack(a, k, input):
+        if k == input:
+            for i in range(input):
+                if a[i]:
+                    print(S[i], end = ' ')
+            print()
+        else:
+            a[k] = 1
+            backtrack(a, k+1, input)
+            a[k] = 0
+            backtrack(a, k+1, input)
+            
+    a = [0] * 10
+    S = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    backtrack(a, 0, 10)
+
++) 가지치기
+def backtrack(a, k, input, s):
+    if s>10:
+        return
+    if k == input:
+        psum = 0
+        for i in range(input):
+            if a[i]:
+                psum += S[i]
+        if psum == 10:
+            for i in range(input):
+                if a[i]:
+                    print(S[i],end=' ')
+            print()
+    else:
+        a[k] = 1
+        backtrack(a, k+1, input, s+S[k])
+        a[k] = 0
+        backtrack(a, k+1, input, s)
+a = [0] * 10
+S = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+backtrack(a, 0, 10, 0)
+
+
+
+***소수 구하기 (에라토스테네스의 체)
+n=1000
+a = [False,False] + [True]*(n-1)
+primes=[]
+
+for i in range(2,n+1):
+  if a[i]:
+    primes.append(i)
+    for j in range(2*i, n+1, i):
+        a[j] = False
+print(primes)
+
+
+***순열
+def perm(arr, k, n, s):
+    global arri, minN
+    if s > minN:
+        return
+    if k == n:
+        tmp = 0
+        for idx, row in enumerate(arri):
+            tmp += row[arr[idx]]
+            if tmp > minN:
+                break
+        if tmp < minN:
+            minN = tmp
+    else:
+        for i in range(k, n):
+            arr[k], arr[i] = arr[i], arr[k]
+            perm(arr, k+1, n, s+arri[k][index[k]])
+            arr[k], arr[i] = arr[i], arr[k]
+
+
+T = int(input())
+
+for i in range(T):
+    n = int(input())
+    arri = [list(map(int, input().split())) for _ in range(n)]
+    index = [j for j in range(n)]
+    minN = float('inf')
+    perm(index, 0, n, 0)
+    print('#%d %d' % (i+1, minN))
+
+
+
+***퀵 정렬
+* 로무토 파티션
+def partition (A, l, r):
+ x = A[r]
+ i = l - 1
+ for j in range(l, r):
+  if A[j] <= x:
+   i+=1
+   A[i],A[j] = A[j], A[i]
+ A[i+1], A[r] = A[r], A[i+1]
+ return i+1
+
+* 호어 파티션
+def partition(A, l, r):
+ p = A[l]
+ i = l+1
+ j = r
+ while i <= j:
+  while(i<=j and A[i]<=p): i+= 1
+  while(i<=j and A[j]>=p): j-= 1
+  if i<=j:
+   A[i],A[j] = A[j],A[i]
+ A[l],A[j] = A[j],A[l]
+ return j
+
+***이진검색(재귀구조)
+def binarySearch(a, low, high, key):
+ if low>high:
+  return -1
+ else:
+  middle = (low+high) // 2
+  if key == a[middle]:
+   return middle
+  elif key < a[middle]:
+   return binarySearch(a, low, middle-1, key)
+...
+
+***병합정렬
+def merge_sort(m):
+ if len(m) <= 1:
+  return m
+
+# divide
+ mid = len(m) // 2
+ left = m[:mid]
+ right = m[mid:]
+ left = merge_sort(left)
+ right = merge_sort(right)
+
+# conquer
+ return merge(left, right)
+
+def merge(left, right):
+ result = []
+ while len(left) > 0 and len(right) > 0:
+  if left[0] <= right[0]:
+   result.append(left.pop(0))
+  else:
+   result.append(right.pop(0))
+ if len(left)>0:
+  result.extend(left)
+...
+ return result

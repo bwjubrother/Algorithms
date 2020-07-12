@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0bab055b-8b6f-47bc-9378-b158ab4d9260" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Homework/2819.txt" afterDir="false" />
+<<<<<<< HEAD
+      <change afterPath="$PROJECT_DIR$/Homework/2819_numattach.py" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/Homework/2819_attachNums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/3752.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/3752_possibleScore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn_advanced/5188.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn_advanced/5188_arrMinSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn_advanced/5189.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn_advanced/5189_eCart.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/JB_Practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/JB_Practice.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SWEA test/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="1" selection-end-column="33" />
+<<<<<<< HEAD
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SWEA test/test.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SWEA D4/6206_sungsoo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+=======
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Homework/2819_numattach.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Homework/2819.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Learn_advanced/5189_eCart.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Learn_advanced/5189.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/Homework/5110.txt" />
+        <option value="$PROJECT_DIR$/SWEA D3/test.txt" />
+        <option value="$PROJECT_DIR$/Homework/9640.txt" />
+        <option value="$PROJECT_DIR$/Homework/9640_findseq.py" />
+        <option value="$PROJECT_DIR$/SWEA D3/5980_sesamPrime.py" />
+        <option value="$PROJECT_DIR$/SWEA D3/5986.txt" />
+=======
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+        <option value="$PROJECT_DIR$/SWEA D3/5986_sesamPrime.py" />
+        <option value="$PROJECT_DIR$/SWEA D3/1860.txt" />
+        <option value="$PROJECT_DIR$/SWEA D3/1860_BoongABBang.py" />
+        <option value="$PROJECT_DIR$/SWEA test/5656.txt" />
+        <option value="$PROJECT_DIR$/SWEA D3/test.py" />
+        <option value="$PROJECT_DIR$/SWEA test/5656_brickbreak.py" />
+        <option value="$PROJECT_DIR$/SWEA D3/3307.txt" />
+        <option value="$PROJECT_DIR$/SWEA D3/3307_increaseSeq.py" />
+        <option value="$PROJECT_DIR$/Homework/1258.txt" />
+        <option value="$PROJECT_DIR$/Homework/1258_findmatrix.py" />
+        <option value="$PROJECT_DIR$/Homework/1486.txt" />
+        <option value="$PROJECT_DIR$/Homework/1486_Janghoon.py" />
+        <option value="$PROJECT_DIR$/Homework/4008.txt" />
+        <option value="$PROJECT_DIR$/Homework/5105.txt" />
+        <option value="$PROJECT_DIR$/Homework/5105_distanceMaze.py" />
+        <option value="$PROJECT_DIR$/Homework/5099.txt" />
+        <option value="$PROJECT_DIR$/Homework/5099_bakePizza.py" />
+        <option value="$PROJECT_DIR$/Homework/5102.txt" />
+        <option value="$PROJECT_DIR$/Homework/5102_distanceNode.py" />
+        <option value="$PROJECT_DIR$/Homework/1952.txt" />
+        <option value="$PROJECT_DIR$/Homework/1952_swimmingPool.py" />
+        <option value="$PROJECT_DIR$/Homework/4008_makeNum.py" />
+        <option value="$PROJECT_DIR$/Homework/5110_seqsum.py" />
+        <option value="$PROJECT_DIR$/Homework/1861.py" />
+        <option value="$PROJECT_DIR$/Homework/1861.txt" />
+        <option value="$PROJECT_DIR$/Homework/1861_squareRoom.py" />
+        <option value="$PROJECT_DIR$/SWEA D4/1222.txt" />
+        <option value="$PROJECT_DIR$/SWEA D4/1222_cal1.py" />
+        <option value="$PROJECT_DIR$/SWEA D4/7701.txt" />
+        <option value="$PROJECT_DIR$/SWEA D4/7701_yumlaName.py" />
+        <option value="$PROJECT_DIR$/SWEA D4/7465.txt" />
+        <option value="$PROJECT_DIR$/SWEA D4/7465_changyong.py" />
+        <option value="$PROJECT_DIR$/Homework/1865.txt" />
+        <option value="$PROJECT_DIR$/Homework/1865_dongchul.py" />
+        <option value="$PROJECT_DIR$/SWEA D4/6959.txt" />
+        <option value="$PROJECT_DIR$/SWEA D4/6959_strangeSumGame.py" />
+        <option value="$PROJECT_DIR$/SWEA D4/6206.txt" />
+        <option value="$PROJECT_DIR$/SWEA D4/6206_sungsoo.py" />
+        <option value="$PROJECT_DIR$/Learn_advanced/5185.txt" />
+        <option value="$PROJECT_DIR$/Learn_advanced/5185_digits.py" />
+        <option value="$PROJECT_DIR$/SWEA test/test.py" />
+        <option value="$PROJECT_DIR$/Learn_advanced/5186.txt" />
+        <option value="$PROJECT_DIR$/Learn_advanced/5186_digits2.py" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/Homework/2819.txt" />
+        <option value="$PROJECT_DIR$/Homework/2819_numattach.py" />
+=======
+        <option value="$PROJECT_DIR$/Homework/3752.txt" />
+        <option value="$PROJECT_DIR$/Homework/3752_possibleScore.py" />
+        <option value="$PROJECT_DIR$/Homework/2819.txt" />
+        <option value="$PROJECT_DIR$/Homework/2819_attachNums.py" />
+        <option value="$PROJECT_DIR$/Learn_advanced/5188.txt" />
+        <option value="$PROJECT_DIR$/Learn_advanced/5188_arrMinSum.py" />
+        <option value="$PROJECT_DIR$/Learn_advanced/5189.txt" />
+        <option value="$PROJECT_DIR$/Learn_advanced/5189_eCart.py" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+<<<<<<< HEAD
+              <item name="JB_Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JB_Practice" type="462c0819:PsiDirectoryNode" />
+              <item name="Homework" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="home" type="b2602c69:ProjectViewProjectNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="Learn_advanced" type="462c0819:PsiDirectoryNode" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jubrother\Desktop\JB_Practice\SWEA test" />
+      <recent name="C:\Users\Jubrother\Desktop\JB_Practice\Homework" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+<<<<<<< HEAD
+  <component name="RunManager" selected="Python.2819_numattach">
+    <configuration name="2819_numattach" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+  <component name="RunManager" selected="Python.5188_arrMinSum">
+    <configuration name="2819_attachNums" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <module name="JB_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/2819_numattach.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/2819_attachNums.py" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="5185_digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="3752_possibleScore" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <module name="JB_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Homework" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_advanced/5185_digits.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Homework/3752_possibleScore.py" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="5186_digits2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="5185_digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <module name="JB_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_advanced/5186_digits2.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_advanced/5185_digits.py" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+<<<<<<< HEAD
+    <configuration name="6206_sungsoo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+=======
+    <configuration name="5186_digits2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <module name="JB_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+<<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SWEA D4/6206_sungsoo.py" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_advanced/5186_digits2.py" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5188_arrMinSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="JB_Practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Learn_advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Learn_advanced/5188_arrMinSum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+<<<<<<< HEAD
+        <item itemvalue="Python.2819_numattach" />
+        <item itemvalue="Python.5186_digits2" />
+        <item itemvalue="Python.5185_digits" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.6206_sungsoo" />
+=======
+        <item itemvalue="Python.5188_arrMinSum" />
+        <item itemvalue="Python.2819_attachNums" />
+        <item itemvalue="Python.3752_possibleScore" />
+        <item itemvalue="Python.5186_digits2" />
+        <item itemvalue="Python.5185_digits" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0bab055b-8b6f-47bc-9378-b158ab4d9260" name="Default Changelist" comment="" />
+      <created>1581082221807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581082221807</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+=======
+    <frame x="953" y="0" width="974" height="1040" extended-state="0" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49278846" visible="true" weight="0.35363248" />
+      <window_info id="Structure" order="1" sideWeight="0.50721157" side_tool="true" weight="0.14583333" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+<<<<<<< HEAD
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3180328" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39836067" />
+=======
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32339954" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39804772" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32941177" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="idx = 10" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>idx = 10</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Homework/9640.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-115">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/9640_findseq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D3/5986.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D3/5986_sesamPrime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D3/1860.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D3/1860_BoongABBang.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="40" lean-forward="true" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+=======
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+    <entry file="file://$PROJECT_DIR$/SWEA D3/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA test/5656.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA test/5656_brickbreak.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1258.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1258_findmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1058">
+          <caret line="46" column="59" selection-start-line="46" selection-start-column="59" selection-end-line="46" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D3/3307.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D3/3307_increaseSeq.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="13" selection-start-column="31" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1486.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1486_Janghoon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/5105.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/5105_distanceMaze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/5099.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/5099_bakePizza.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-92">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/5102.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/5102_distanceNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1952.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1952_swimmingPool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/4008.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Miniconda3/Lib/codecs.py" />
+    <entry file="file://$PROJECT_DIR$/Homework/4008_makeNum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2323">
+          <caret line="101" selection-start-line="101" selection-end-line="148" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/5110.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/5110_seqsum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1861.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1861_squareRoom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="37" column="43" lean-forward="true" selection-start-line="4" selection-end-line="37" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/1222.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/1222_cal1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/7701.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/7701_yumlaName.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/7465.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D3/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/7465_changyong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1865.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21068">
+          <caret line="916" column="13" lean-forward="true" selection-start-line="916" selection-start-column="13" selection-end-line="916" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/1865_dongchul.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/6959.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/6959_strangeSumGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5185.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5185_digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5186.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/6206.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5185.txt">
+=======
+    <entry file="file://$PROJECT_DIR$/SWEA D4/6206_sungsoo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5186_digits2.py">
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/3752.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5186.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5186_digits2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA D4/6206_sungsoo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA test/test.py">
+=======
+    <entry file="file://$PROJECT_DIR$/Homework/3752_possibleScore.py">
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/2819.txt">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/2819_numattach.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="29" column="22" lean-forward="true" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+=======
+        <state relative-caret-position="104">
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework/2819_attachNums.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5188.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5188_arrMinSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA test/test.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5189.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SWEA test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Learn_advanced/5189_eCart.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+>>>>>>> d662dbbd1b312414bf62ad5756c91f4e0fac088a
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
