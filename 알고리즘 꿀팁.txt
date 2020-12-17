@@ -1,4 +1,4 @@
-***원형 큐
+﻿***원형 큐
 def isEmpty():
     return front == rear
 
@@ -103,6 +103,15 @@ for i in range(2,n+1):
     for j in range(2*i, n+1, i):
         a[j] = False
 print(primes)
+
+// set을 이용한 방법
+def solution(n):
+    num=set(range(2,n+1))
+
+    for i in range(2,n+1):
+        if i in num:
+            num-=set(range(2*i,n+1,i))
+    return len(num)
 
 
 ***순열
