@@ -32,12 +32,31 @@ for dest in plan[1:]:
 print('YES')
 '''
 
+def find(i, rst):
+    if rst[i] != i:
+        rst[i] = find(rst[i], rst)
+    return rst[i]
+
+def union(i, j, rst):
+    x = find(i, rst)
+    y = find(j, rst)
+    rst[x] = y
+
 # union-find
 N = int(input())
 M = int(input())
 board = []
 for _ in range(N):
     board.append(list(map(int, input().split(' '))))
-plan = list(map(int, input().split(' ')))
+plan = [int(x) - 1 for x in input().split(' ')]
 rst = list(range(N))
-print(rst)
+for i in range(N):
+    for j in range(i+1, N):
+        if board[i][j] == 1:
+            union(i, j, rst)
+pivot = find(plan[0], rst)
+for i in range(1, M):
+    if pivot != find(plan[i], rst):
+        print('NO')
+        quit()
+print('YES')
