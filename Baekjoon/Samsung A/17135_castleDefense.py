@@ -1,27 +1,48 @@
 import sys
 sys.stdin = open('17135.txt', 'r')
 
-from itertools import combinations
+from heapq import heappush, heappop
+from copy import deepcopy 
 
 n, m, d = map(int, input().split())
-board = []
-for _ in range(n):
-    board.append(list(map(int, input().split())))
-    
-kill = 0
-# 궁수 3명 최적 배치
-    for item in combinations(range(m), 3):
-        for ix in item:
-            # 제거하기
-            for y in range(n-1, -1, -1):
-                flag = 0
-                for x in range(m):
-                    if board[x][y] == 1 and (y + abs(x-ix)) <= d:
-                        board[x][y] = 0
-                        flag = 1
-                        break
-                if flag == 1:
-                    break
+board = [list(map(int, input().split())) for _ in range(n)]
 
-# 아래로 한 칸 내리기
-board = board[:-1]
+# kill
+def kill(board, archors):
+    killed = 0
+    _board = deepcopy(board)
+    for _ in range(n):
+        enemy = []
+        for idx in range(3):
+            q = []
+            for i in range(n):
+                for j in range(m):
+                    if _board[i][j]:
+                        dist = abs(n-i)+abs(archors[idx]-j)
+                        if dist <= d:
+                            heappush(q, (dist, j, i))
+            if q:
+                _, y, x = heappop(q)
+                enemy.append((x, y))
+        # kill (dist, j , i)
+        for x, y in enemy:
+            if _board[x][y]:
+                _board[x][y] = 0
+                killed += 1
+        # move
+        for i in range(n-1, 0, -1):
+            for j in range(m):
+                _board[i][j] = _board[i-1][j]
+        for j in range(m):
+            _board[0][j] = 0
+    return killed
+
+ans = 0
+# archor location
+for i in range(m):
+    for j in range(i+1, m):
+        for k in range(j+1, m):
+            archors = [i, j, k]
+            ans = max(ans, kill(board, archors))
+
+print(ans)
