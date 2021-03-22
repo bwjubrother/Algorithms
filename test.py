@@ -1,5 +1,8 @@
-from pykiwoom.kiwoom import *
+import sys
+k, p, n = map(int, input().split(' '))
+time = 0 
+while time < n:
+    k *= p
+    time += 0.1
+    print(time)
 
-kiwoom = Kiwoom()
-kiwoom.CommConnect(block=True)
-print("블록킹 로그인 완료")
